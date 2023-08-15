@@ -1,6 +1,6 @@
 # Project detail
 ## Name
-Darsh Protocol
+Darsh Protocoll
 
 ## About
 Darsh's mission is to create a socialized way of lending and borrowing while maintaining DeFi's autonomy and permissionlessness by offering a decentralized peer to peer way for any individual to engage as a lender or borrower.
